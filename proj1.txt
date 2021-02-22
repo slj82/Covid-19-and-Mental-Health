@@ -2,10 +2,12 @@ INFO 2950 Project Phase I
 Name/NetID: Savannah Jeffries slj82
 
 ---
+Github link: https://github.com/slj82/INFO-2950-Project
 
 Ideas:
 
-1) My first idea is to analyze a psychology data set to search for correlations or patterns between how much time adolescents spend on active free time (e.g. hobbies, sports, etc), passive free time (e.g. tv), or work (e.g. school or chores) and the effects on school performance and both mental and physical health. 
+1) My first idea is to analyze a psychology data set to search for correlations or patterns between how much time adolescents spend on active free time (e.g. hobbies, sports, etc), passive free time (e.g. tv), or work (e.g. school or chores) and the effects on school performance and both mental and physical health. Possible data sources include 
+-
 
 2) My second idea is to examine what factors can lead to the development of an eating disorder by examining data such as strength of relationships, family status, weight, school performance, degree of stress, etc. For something like this, I would use a data set that involves people's ratings of their stress, strength of relationships etc on a scale of 5, 10, etc. 
 
