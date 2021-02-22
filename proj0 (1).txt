@@ -1,0 +1,71 @@
+INFO 2950 Project Work Contract
+Names/NetIDs: Savannah Jeffries slj82
+
+---
+
+For individuals:
+
+Time management. Look at the schedule of project phase deadlines, as well as your current course schedule, exams, other projects, and commitments beyond coursework. Based on these time constraints, set a regular schedule for project work and outline it below.
+
+Phase 1: 
+
+1) set up gibhub on Friday 2/19
+
+2) research psychology data sets and at write out ideas availability on Saturday 2/20
+
+3) write out questions for reviewers on Monday 2/22
+
+4) submit project phase 1 Tuesday 2/23 (buffer day)
+
+
+Phase 2:
+
+1) choose idea and develop research question by end of day Sunday 2/28
+
+2) data collection and cleaning by Friday 3/5
+
+3) summary statistics and plots by end of day on Sunday 3/7 (also update research question and data description if needed)
+
+4) data limitations by Tuesday 3/9
+
+5) exploratory data analysis by Friday 3/12
+
+6) questions for reviewers by Saturday 3/13
+
+7) polish and assemble above pieces and turn in by Tuesday 3/16 (buffer day)
+
+
+Phase 3: 
+
+1) Pre-register analysis 1 by Friday 3/26
+
+2) Pre-register analysis 2 by Sunday 3/4
+
+3) Questions for reviewers by 4/7
+
+4) submit by Saturday 4/10 (buffer day) 
+
+
+Phase 4: 
+
+1) introduction done by Sunday 4/11
+
+2) data description done by Tuesday 4/13 
+
+3) preregistration statement by Wednesday 4/14
+
+4) data analysis by Friday 4/15 
+
+5) evaluation of significance by Saturday 4/16
+
+6) interpretation and conclusions by Monday 4/19
+
+7) limitations, source code, acknowledgements by Tues 4/20
+
+8) appendix and turn in by 4/21
+
+
+Phase 5: 
+
+1) revise and edit a little bit every to every other day and submit by Tuesday May 11
+---
